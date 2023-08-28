@@ -1,1 +1,6 @@
 Nuevo bloc de notas
+
+git commit -m "mensaje de commit"
+git push -u origin main
+
+ver estado: git status / git branch -a (estado de ramas)
